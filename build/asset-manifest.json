@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1783d2be.chunk.css",
+    "main.js": "./static/js/main.0fff9c1c.chunk.js",
+    "main.js.map": "./static/js/main.0fff9c1c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8717af53.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8717af53.js.map",
+    "static/js/2.d84c7651.chunk.js": "./static/js/2.d84c7651.chunk.js",
+    "static/js/2.d84c7651.chunk.js.map": "./static/js/2.d84c7651.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ec0f9b313538ec586f10266e5cedd459.js": "./precache-manifest.ec0f9b313538ec586f10266e5cedd459.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1783d2be.chunk.css.map": "./static/css/main.1783d2be.chunk.css.map",
+    "static/media/Home.scss": "./static/media/BG_Entregas_home.d5ed347c.png",
+    "static/media/Footer.scss": "./static/media/segoeuib.4056244b.ttf",
+    "static/media/case-gusto-mio.jpg": "./static/media/case-gusto-mio.b13fd792.jpg",
+    "static/media/case-hyle.jpg": "./static/media/case-hyle.2fd418b5.jpg",
+    "static/media/case-mexicalle.jpg": "./static/media/case-mexicalle.6f50101d.jpg",
+    "static/media/case-oper.jpg": "./static/media/case-oper.33deac6f.jpg",
+    "static/media/facebook.svg": "./static/media/facebook.c4925146.svg",
+    "static/media/foto-proposito.png": "./static/media/foto-proposito.eb54c068.png",
+    "static/media/foto_persona.png": "./static/media/foto_persona.b1291cf5.png",
+    "static/media/hanna-castor.svg": "./static/media/hanna-castor.9d92a571.svg",
+    "static/media/instagram.svg": "./static/media/instagram.16ba244a.svg",
+    "static/media/linkedIn.svg": "./static/media/linkedIn.05fdd0cd.svg",
+    "static/media/logo.svg": "./static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8717af53.js",
+    "static/js/2.d84c7651.chunk.js",
+    "static/css/main.1783d2be.chunk.css",
+    "static/js/main.0fff9c1c.chunk.js"
+  ]
+}

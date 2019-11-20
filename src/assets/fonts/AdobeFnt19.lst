@@ -1,0 +1,218 @@
+%!Adobe-FontList 1.19
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-ExtraBold
+FamilyName:Gilroy-ExtraBold
+StyleName:☞
+FullName:☞Gilroy-ExtraBold
+MenuName:Gilroy-ExtraBold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\Gilroy-ExtraBold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:133044
+FileModTime:1469037989
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gilroy-ExtraBold
+NameArray:0,Win,1,Gilroy-ExtraBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-Medium
+FamilyName:Gilroy-Medium
+StyleName:☞
+FullName:☞Gilroy-Medium
+MenuName:Gilroy-Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\Gilroy-Medium_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:143724
+FileModTime:1469037971
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gilroy-Medium
+NameArray:0,Win,1,Gilroy-Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gilroy-SemiBold
+FamilyName:Gilroy-SemiBold
+StyleName:☞
+FullName:☞Gilroy-SemiBold
+MenuName:Gilroy-SemiBold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\Gilroy-SemiBold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139820
+FileModTime:1469037990
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gilroy-SemiBold
+NameArray:0,Win,1,Gilroy-SemiBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1507083812
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Oxygen-Bold
+FamilyName:Oxygen
+StyleName:Bold
+FullName:Oxygen Bold
+MenuName:Oxygen
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\Oxygen-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46960
+FileModTime:1553101885
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Oxygen Bold
+NameArray:0,Mac,4,Oxygen Bold
+NameArray:0,Win,1,Oxygen
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxygen-Light
+FamilyName:Oxygen
+StyleName:Light
+FullName:Oxygen Light
+MenuName:Oxygen
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\oxygen.light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43852
+FileModTime:1537369491
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Oxygen Light
+NameArray:0,Mac,4,Oxygen Light
+NameArray:0,Win,1,Oxygen
+NameArray:0,Win,16,Oxygen
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxygen-Regular
+FamilyName:Oxygen
+StyleName:Regular
+FullName:Oxygen Regular
+MenuName:Oxygen
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\oxygen.regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48092
+FileModTime:1537369497
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Oxygen Regular
+NameArray:0,Mac,4,Oxygen Regular
+NameArray:0,Win,1,Oxygen
+NameArray:0,Win,16,Oxygen
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SegoeUI
+FamilyName:Segoe UI
+StyleName:Regular
+FullName:Segoe UI
+MenuName:Segoe UI
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\segoeui.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:925736
+FileModTime:1523489648
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Segoe UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SegoeUI-Bold
+FamilyName:Segoe UI
+StyleName:Bold
+FullName:Segoe UI Bold
+MenuName:Segoe UI
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\BKP_Diretoria\d\01. Tríade marcas\Presentation 2019\Pasta Presentation_HannaCastorBranding\Document fonts\segoeuib.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:914092
+FileModTime:1523489648
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Segoe UI
+%EndFont
+
